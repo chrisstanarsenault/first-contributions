@@ -1,7 +1,9 @@
 # Contributors
+
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
+- [Chris Arsenault](https://github.com/chrisstanarsenault)
 - [Harel Katz] (https://github.com/HarelKatz)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
@@ -27,7 +29,7 @@
 - [E H]()
 - [Jason Charles] ()
 - [Joe Lee](https://github.com/josephlee93)
-- [_nolj](https://github.com/nolanbjohnson)
+- [\_nolj](https://github.com/nolanbjohnson)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Seamus Bonner](https://github.com/Shamebob)
 - [Soham Zemse](https://github.com/zemse)
@@ -86,7 +88,7 @@
 - [Justin Tromp](https://github.com/trompj)
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
 - [Laura Fiuza](https://github.com/laurafiuza)
- Vaibhav Kaushal
+  Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Chaz](https://github.com/chaz303)
@@ -853,8 +855,7 @@
 - [Johnnie](https://github.com/aimlessblitz)
 - [Tony G](https://github.com/tonygparsehub)
 - [Mario DeLaPaz](https://github.com/mariocd10)
-- [fyusuf1](https://github.com/fyusuf1)
--[Jacob Oldenburg](https://github.com/jfoldenburg)
+- [fyusuf1](https://github.com/fyusuf1) -[Jacob Oldenburg](https://github.com/jfoldenburg)
 - Rajesh Verma
 - [Jacquetta Bommuluri](https://github.com/jacquetta)
 - [Justin Kook](https://github.com/justinkook)
@@ -5256,7 +5257,7 @@
 - [Razvan05](https://github.com/razvan05)
 - [Mridul tuteja](https://github.com/mridultuteja)
 - [Thadeu Cotts](https://github.com/cotts)
-Rutvij Khatri (https://github.com/rutvij2811)
+  Rutvij Khatri (https://github.com/rutvij2811)
 - [Debaditya Dey](https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
@@ -9686,7 +9687,7 @@ Rutvij Khatri (https://github.com/rutvij2811)
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
 - [Bryan Boubion](https://github.com/bjboubion)
-Bryan Romero
+  Bryan Romero
 - [Raufoon](https://github.com/Raufoon)
 - [shubham715](https://github.com/shubham715)
 - [Manish](https://github.com/dakait)
@@ -11766,4 +11767,3 @@ Bryan Romero
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
-
